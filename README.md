@@ -8,7 +8,8 @@ Follow a Friday Night Funkin' source code compilation tutorial, after this you w
 
 To install LuaJIT do this: `haxelib install linc_luajit` on a Command prompt/PowerShell
 
-...Or if you don't want your mod to be able to run .lua scripts, delete the "LUA_ALLOWED" line on Project.xml
+...Or if you don't want your mod to be able to run .lua scripts, delete the "LUA_ALLOWED" line on Project.xml.
+If you don't want to compile, just download shit from Releases or Workflows. Its not that hard
 
 ## Credits:
 * Shadow Mario - Coding
